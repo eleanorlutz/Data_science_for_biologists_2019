@@ -17,7 +17,8 @@ Students were asked to provide anonymous feedback to improve these labs. All sub
 > It would be nice if there are some brief introduction at the beginning of the lab section for some intro on what that day's lab will be about.
 
 > [...] I wish [...] she took us through a harder problem for lab. [...]
->Maybe shorten I few of the lab exercises a bit.
+
+> Maybe shorten I few of the lab exercises a bit.
 
 > [...] It stretched my thinking because I wasn't sure what I was doing anyways. They expected a lot from you and wanted you to finish, lab was not long enough to finish literally ever or you had to start before to finish during section.
 
