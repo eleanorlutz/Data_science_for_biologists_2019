@@ -6,7 +6,9 @@
 ## Summary
 This repository contains all lab materials for the University of Washington course **Data Science for Biologists** (Winter 2019, [BIOL 419/519](https://www.washington.edu/students/crscat/biology.html)). Please feel free to use for any purpose.
 
-Course design and lecture material (not included here) by [Bingni Brunton](https://github.com/bwbrunton) and [Kameron Harris](https://github.com/kharris/). Lab materials by Eleanor Lutz, with helpful suggestions from Bing and Kam. 
+Course design and lecture material (not included here) by [Bingni Brunton](https://github.com/bwbrunton) and [Kameron Harris](https://github.com/kharris/). Lab materials by Eleanor Lutz, with helpful suggestions from Bing and Kam.
+
+This 2019 course used default package versions downloaded with `Anaconda 5.3.0`: `Pandas 0.23.4`, `Matplotlib 3.0.2`, `Numpy 1.15.4`, and `Scikit-Learn 0.20.2`.
 
 ## Student feedback
 Students were asked to provide anonymous feedback to improve these labs. All substantial comments referencing labs (longer than a couple of words) are included below. If you improve these labs to address the suggestions please make a new branch or pull request! Student comments unrelated to lab content are redacted as [...].
@@ -70,7 +72,7 @@ These labs were designed for students with no prior programming experience. Many
 
 ### Lab 4
 - Reading in data using the Pandas library
-- Review of linear regression 
+- Review of linear regression
 - Plotting in three dimensions
 
 ### Lab 5
